@@ -90,7 +90,7 @@ This code write by [Mr.nope](https://github.com/mrprogrammer2938)
 
 **Installing**
 ```
-git clone https://github.com/mrprogrammer2938/ Black-Tool
+git clone https://github.com/dominhhieu1405/Black-Tool.git
 
 cd Black-Tool
 
